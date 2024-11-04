@@ -2,5 +2,5 @@
 - 🔭 I’m interested in Cinematography, Technology and Gaming.
 - 🌱 I’m currently pursuing Bachelor of Software Engineering at Royal Melbourne Institute of Technology Vietnam.
 - Experience in C++, Java.
-- 📫 How to reach me:
-  Email: minhkhuong632@gmail.com
+- 📫 Reach me at:
+- Email: minhkhuong632@gmail.com
